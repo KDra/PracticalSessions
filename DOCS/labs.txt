@@ -1,0 +1,8 @@
+labs source:
+https://github.com/tmlss2018/PracticalSessions
+resolved labs will be updated next week (32 -07-2018)
+
+Recommended environment for solving labs
+https://colab.research.google.com/notebooks/welcome.ipynb
+(you need gmail account
+from "Runtime" tab, choose "Change Runtime type" and set GPU and Python 3)
